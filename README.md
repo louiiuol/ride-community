@@ -12,10 +12,10 @@
 - Dashboard par utilisateur, accès aux fonctionnalités:
 
   - **Socials**
-  - Groupe de discussion (texte, image, vidéo): typoe discord ? 
+  - Groupe de discussion (texte, image, vidéo): type discord ? 
   - Match avec les autres utilisateurs en fonction de critères (géolocation, centres d'intérets)
   - Trouvé par station: rechercher les autres utilisateurs disponibles dans le secteur.
-  - Rassemblement et challenges (réportorié par hub)
+  - Rassemblement et challenges (répertorié par hub)
   - Lancer un meeting (en précisant la géolocalisation)
   
   - **Outils**
@@ -23,3 +23,7 @@
   - Cartes Météo + pistes (si référencé en ligne)
   - Liste de tutos (diy +riding)
   - Ajouter sa propre vidéo / tuto
+
+## Stack Technique
+
+- 
